@@ -1,4 +1,4 @@
-Journal: Physics in Medicine and Biology
+Journal: Journal of Radiological Protection
 
 Title: Specific Absorbed Fractions and Radionuclide S Values for Respiratory Tract using ICRP Mesh-type Reference Computational Phantoms
 
